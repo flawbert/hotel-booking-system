@@ -1,0 +1,15 @@
+/home/flawbert/hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem
+/home/flawbert/hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem.deps.json
+/home/flawbert/hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem.runtimeconfig.json
+/home/flawbert/hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/flawbert/hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfo.cs
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.sourcelink.json
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/refint/DesafioProjetoHospedagem.dll
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.genruntimeconfig.cache
+/home/flawbert/hotel-booking-system/obj/Debug/net6.0/ref/DesafioProjetoHospedagem.dll
